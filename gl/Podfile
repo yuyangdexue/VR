@@ -1,0 +1,15 @@
+platform :ios, '7.0'
+pod 'AFNetworking', '~> 2.4.1'
+pod 'UIActionSheet+Blocks', '~> 0.8.1'
+pod 'MCUIColorUtils', '~> 1.0.0'
+pod 'UIAlertView+Block', '~> 1.1.0'
+pod 'UIImage+BlurredFrame', '~> 0.0.4'
+pod 'NSDictionary+Accessors', '~> 1.0.0'
+pod 'IQKeyboardManager', '~> 3.2.0.2'
+pod 'FMDB', '~> 2.4'
+pod 'FXBlurView', '~> 1.6.3'
+pod 'JSONModel', '~> 1.0.1'
+
+
+
+

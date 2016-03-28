@@ -1,0 +1,61 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FXBlurView (1.6.3)
+  - IQKeyboardManager (3.2.0.3)
+  - JSONModel (1.0.2)
+  - MCUIColorUtils (1.0.0)
+  - NSDictionary+Accessors (1.0.0)
+  - UIActionSheet+Blocks (0.8.1)
+  - UIAlertView+Block (1.1.0)
+  - UIImage+BlurredFrame (0.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4.1)
+  - FMDB (~> 2.4)
+  - FXBlurView (~> 1.6.3)
+  - IQKeyboardManager (~> 3.2.0.2)
+  - JSONModel (~> 1.0.1)
+  - MCUIColorUtils (~> 1.0.0)
+  - NSDictionary+Accessors (~> 1.0.0)
+  - UIActionSheet+Blocks (~> 0.8.1)
+  - UIAlertView+Block (~> 1.1.0)
+  - UIImage+BlurredFrame (~> 0.0.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FXBlurView: c6d23f3d35af2c6282296a2930f61c6e2c788d01
+  IQKeyboardManager: 7b071d1284b47b1c0c19891a042c2c65f118fa85
+  JSONModel: 6ffcb4ffa3659c9e9a2e5d45d6c7705bab187c03
+  MCUIColorUtils: 6f11e1702db4ff5419d28cba1e8f7a82dd82d5fe
+  NSDictionary+Accessors: 5c453c028da416525428c938602c7c96704a9bbc
+  UIActionSheet+Blocks: 7fdab45fc8f15ac2dc1cd65af1470746600b5f46
+  UIAlertView+Block: fa6fcfe2c5110d3b6e9b9d9bfb46ac9250007f65
+  UIImage+BlurredFrame: ad2f7195c6947ea3117c7d202f75a51958d5061a
+
+COCOAPODS: 0.36.4
